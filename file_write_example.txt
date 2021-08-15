@@ -1,0 +1,7 @@
+
+write example
+Write using 
+writelines 
+method 
+
+Adding in the existing file
