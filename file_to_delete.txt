@@ -1,0 +1,5 @@
+file for
+read example
+   example with space before
+example with space after   
+file write in r+ mode
